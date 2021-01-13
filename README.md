@@ -1,43 +1,32 @@
-# Project Name
+# MESWE [Maximum Entropy Shallow Water Equations]
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to develop a framework for solving simplified models of free-surface flow using a combination of the Shallow Water equations and the principle of maximum entropy. 
 
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Benjamin Young | [BAAYoung](https://github.com/BAAYoung)|   |
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Entropy Maximisation
+* Variational Methods
+* Numerical solvers
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Sympy
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
+To Do
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data (i.e. data from simscale/openFOAM ) is being kept [here](Repo folder containing raw data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](#)

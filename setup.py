@@ -9,10 +9,3 @@ install_requires = [
 
 # tests_require = ['pytest>=4.0.2']
 
-setup(name='src',
-      version='0.0.1',
-      description='fill this in with any description',
-      author='Misha Berrien',
-      author_email='misha.berrien@gmail.com',
-      install_requires=install_requires,
-      packages=['src'])
